@@ -77,7 +77,7 @@ The analysis includes comparisons of:
 * Average routing time across submission channels.
 * Untimely response rates among high-volume companies.
 
-![CFPB Complaint Analysis](cfpb_bottlenecks_clean.png)
+<img width="1191" height="1584" alt="cfpb_bottlenecks_clean" src="https://github.com/user-attachments/assets/d7f7dead-3098-46ab-a554-36e1da30bc78" />
 
 ## 8. Key Findings
 
