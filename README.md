@@ -14,15 +14,13 @@ Using Python and exploratory data analysis, the project identifies patterns that
 
 **Where do potential bottlenecks appear in the consumer complaint handling process, and which areas may need closer attention?**
 
-Financial institutions and analysts need visibility into how complaints move through the initial handling process and how recorded response timeliness varies across products and companies.
-
 This project investigates three key areas:
 
 * **Routing delays:** Do some submission channels have longer delays before complaints are sent to companies?
 * **Response timeliness:** Which financial products have higher rates of responses marked as untimely?
 * **Company comparisons:** Which high-volume companies have comparatively high untimely response rates?
 
-The objective is to identify patterns and potential problem areas that could help stakeholders prioritize further investigation. The analysis does not establish the causes of these patterns or directly resolve complaint-handling issues.
+The objective is to identify patterns and potential problem areas that could help stakeholders prioritize further investigation.
 
 ### Who Could Use These Insights?
 
